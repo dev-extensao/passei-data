@@ -12,6 +12,11 @@
             "name":"TESTE PARA POLICIA MILITAR",
             "url":"https://www.policiamilitar.mg.gov.br/conteudoportal/uploadFCK/crs/File/provas_anteriores/CFO/PROVA%20CFO%202001.doc",
             "type":"TEST"           
+        },
+        {
+            "name":"FORMULÁRIO DE SUGESTÕES",
+            "url":"https://forms.gle/9Mfzssavt9TyWY6Z9",
+            "type":"FORM"           
         }        
     ]
 }
