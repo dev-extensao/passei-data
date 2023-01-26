@@ -382,7 +382,7 @@
         },
         {
             "name":"ENEM PROVA AZUL - 2022",
-            "url":"https://github.com/dev-extensao/passei-data/blob/main/src/file/enem/2022/azul/2022_PV_impresso_D1_CD1.pdf",
+            "url":"https://github.com/dev-extensao/passei-data/raw/main/src/file/enem/2022/azul/2022_PV_impresso_D1_CD1.pdf",
             "type":"PDF",
             "state":"BR",
             "city":"BR",
