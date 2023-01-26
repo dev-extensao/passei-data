@@ -392,7 +392,20 @@
                 "AZUL",
                 "ENEM"
             ]
-        }                                                                                                            
+        },
+        {
+            "name":"ENEM PROVA AMARELO - 2022",
+            "url":"https://github.com/dev-extensao/passei-data/raw/main/src/file/enem/2022/amarelo/2022_PV_impresso_D1_CD2.pdf",
+            "type":"PDF",
+            "state":"BR",
+            "city":"BR",
+            "date":"2022",
+            "tags":[
+                "PROVA AMARELO",
+                "AZUL",
+                "ENEM"
+            ]
+        }                                                                                                                 
     ]
     
 }
