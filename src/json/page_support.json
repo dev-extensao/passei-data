@@ -7,19 +7,19 @@
             {
                 "name":"Professor ferretto",
                 "url":"https://www.youtube.com/@professorferretto",
-                "img":"img/ferreto.jpg"
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/ferreto.jpg?alt=media&token=eeb9ea68-0056-407d-8455-714616f5de35"
             }
         ],
         "channels":[
             {
                 "name":"Professor ferretto",
                 "url":"https://www.youtube.com/@professorferretto",
-                "img":"img/ferreto.jpg"
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/ferreto.jpg?alt=media&token=eeb9ea68-0056-407d-8455-714616f5de35"
             },
             {
                 "name":"Quimimica simples",
                 "url":"https://www.youtube.com/@QuimicaSimples",
-                "img":"img/quimica_simples.jpg"
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/quimica_simples.jpg?alt=media&token=366f3429-74bc-44f0-98e3-867881d5f10d"
             }
         ],
         "books":[            
