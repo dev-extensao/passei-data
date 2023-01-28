@@ -24,21 +24,16 @@
         ],
         "books":[            
             {
-                "name":"Mega concurso",
-                "url":"https://megaconcursos.com/",
+                "name":"Formulário de publicação de livros e apostilas",
+                "url":"https://forms.gle/pNkaujPmz9jZWECt9",
                 "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/anuncio.png?alt=media&token=f58a86c1-a57e-442c-a81b-3fb63b1d9b23"
-            },
-            {
-                "name":"Mega concurso",
-                "url":"https://megaconcursos.com/",
-                "img":"img/anuncio.png"
-            }
+            }            
         ],
         "schools":[
             {
-                "name":"Mega concurso",
-                "url":"https://megaconcursos.com/",
-                "img":"img/anuncio.png"
+                "name":"Formulário de publicação de escolas",
+                "url":"https://forms.gle/pNkaujPmz9jZWECt9",
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/anuncio.png?alt=media&token=f58a86c1-a57e-442c-a81b-3fb63b1d9b23"
             }
         ]
     }
