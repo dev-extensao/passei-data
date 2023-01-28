@@ -1,0 +1,40 @@
+{
+    "metada": {
+        "version": "v1"
+    },
+    "data":{
+        "campaign":[
+            {
+                "name":"Professor ferretto",
+                "url":"https://www.youtube.com/@professorferretto",
+                "img":"img/ferreto.jpg"
+            }
+        ],
+        "channels":[
+            {
+                "name":"Professor ferretto",
+                "url":"https://www.youtube.com/@professorferretto",
+                "img":"img/ferreto.jpg"
+            },
+            {
+                "name":"Quimimica simples",
+                "url":"https://www.youtube.com/@QuimicaSimples",
+                "img":"img/quimica_simples.jpg"
+            }
+        ],
+        "books":[            
+            {
+                "name":"Mega concurso",
+                "url":"https://megaconcursos.com/",
+                "img":"img/ferreto.jpg"
+            }
+        ],
+        "schools":[
+            {
+                "name":"Mega concurso",
+                "url":"https://megaconcursos.com/",
+                "img":"img/ferreto.jpg"
+            }
+        ]
+    }
+}
