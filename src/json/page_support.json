@@ -27,7 +27,12 @@
                 "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/se_liga_nessa_historia.jpg?alt=media&token=79ebc0e1-d16d-4e77-8674-0533685f190f"
             }
         ],
-        "books":[            
+        "books":[     
+            {
+                "name":"CRASE PORTUGUES",
+                "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FCRASE.pdf?alt=media&token=3e572e73-5d64-442f-bfee-24b1a47d26ff",
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fcrase.png?alt=media&token=a171d044-84ba-439c-ad56-7ea973feea50"
+            },         
             {
                 "name":"Formulário de publicação de livros e apostilas",
                 "url":"https://forms.gle/pNkaujPmz9jZWECt9",
