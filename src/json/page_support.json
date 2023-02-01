@@ -32,7 +32,12 @@
                 "name":"CRASE PORTUGUES",
                 "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FCRASE.pdf?alt=media&token=3e572e73-5d64-442f-bfee-24b1a47d26ff",
                 "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fcrase.png?alt=media&token=a171d044-84ba-439c-ad56-7ea973feea50"
-            },         
+            },   
+            {
+                "name":"REGÊNCIA VERBAL E NOMINAL",
+                "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FPortugu%C3%AAs_%20Resumo%20_Reg%C3%AAncia%20Verbal%20e%20Nominal_.pdf?alt=media&token=7153f403-cf83-4cc0-98da-cea17503e58d",
+                "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fportugues%2Fregencia_verbal_e_nominal.png?alt=media&token=9b41b06c-fd83-42e9-8ed2-03e96c25aad3"
+            },      
             {
                 "name":"Formulário de publicação de livros e apostilas",
                 "url":"https://forms.gle/pNkaujPmz9jZWECt9",
