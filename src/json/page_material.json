@@ -63,7 +63,16 @@
             "tags":[
                 "ORTOGRAFIA"                
             ]
-        }                     
+        },
+        {
+            "name":"SEMÂNTICA - ( item 1 )",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FSEMANTICA.pdf?alt=media&token=cb1eb181-8f92-4699-bf84-c73b620ce621",
+            "img":"",
+            "type":"PORTUGUES", 
+            "tags":[
+                "SEMANTICA"            
+            ]
+        }                           
        
     ]
 }
