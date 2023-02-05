@@ -54,7 +54,16 @@
             "tags":[
                 "ORACOES REDUZIDAS"                
             ]
-        }            
+        },
+        {
+            "name":"MANUAL DE ORTOGRAFIA - ( item 1 )",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FManual_de_Ortografia.pdf?alt=media&token=243537ce-f173-4247-9aa3-0af1e6870b33",
+            "img":"",
+            "type":"PORTUGUES", 
+            "tags":[
+                "ORTOGRAFIA"                
+            ]
+        }                     
        
     ]
 }
