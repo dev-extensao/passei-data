@@ -72,7 +72,17 @@
             "tags":[
                 "SEMANTICA"            
             ]
-        }                           
+        },
+        {
+            "name":"SINTAXE - ( item 1 )",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FSintaxe_Portugues.pdf?alt=media&token=6b9a0c3e-4d74-4488-9a03-fad67a592afd",
+            "img":"",
+            "type":"PORTUGUES", 
+            "tags":[
+                "SINTAXE",
+                "SINTAXE DO PORTUGUÊS"           
+            ]
+        }                                 
        
     ]
 }
