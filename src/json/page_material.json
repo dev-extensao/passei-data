@@ -9,6 +9,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fcrase.png?alt=media&token=a171d044-84ba-439c-ad56-7ea973feea50",
             "type":"PORTUGUES", 
             "tags":[
+                "CRASE PORTUGUES",
                 "GRAMATICA"
             ]
         },
@@ -18,6 +19,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fportugues%2Fregencia_verbal_e_nominal.png?alt=media&token=9b41b06c-fd83-42e9-8ed2-03e96c25aad3",
             "type":"PORTUGUES", 
             "tags":[
+                "REGENCIA VERBAL E NOMINAL",
                 "GRAMATICA"
             ]
         },   
@@ -27,6 +29,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fportugues%2FMORFOLOGIA.png?alt=media&token=47fad626-aa8a-41dc-b79e-74d06350da68",
             "type":"PORTUGUES", 
             "tags":[
+                "MORFOLOGIA",
                 "GRAMATICA"
             ]
         }   
