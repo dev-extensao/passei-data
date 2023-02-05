@@ -10,6 +10,7 @@
             "type":"PORTUGUES", 
             "tags":[
                 "CRASE PORTUGUES",
+                "CRASE",
                 "GRAMATICA"
             ]
         },
@@ -20,6 +21,9 @@
             "type":"PORTUGUES", 
             "tags":[
                 "REGENCIA VERBAL E NOMINAL",
+                "REGENCIA",
+                "REGENCIA VERBAL",
+                "REGENCIA NOMINAL",
                 "GRAMATICA"
             ]
         },   
