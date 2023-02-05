@@ -82,7 +82,17 @@
                 "SINTAXE",
                 "SINTAXE DO PORTUGUÊS"           
             ]
-        }                                 
+        },
+        {
+            "name":"SINTAXE - ( item 2 )",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FSINTAXE_2.pdf?alt=media&token=bcac8924-5a6d-4f49-98d3-4f4c62384ae2",
+            "img":"",
+            "type":"PORTUGUES", 
+            "tags":[
+                "SINTAXE",
+                "SINTAXE DO PORTUGUÊS"           
+            ]
+        }                                     
        
     ]
 }
