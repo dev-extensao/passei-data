@@ -101,7 +101,34 @@
             "tags":[
                 "PONTUACAO"                           
             ]
-        }                                                 
+        },
+        {
+            "name":"INFORMÁTICA BÁSICA 1",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Finformatica%2FInformatica-Basica.pdf?alt=media&token=33c1b239-02f0-4753-bcce-59dd80b5caa5",
+            "img":"",
+            "type":"INFORMÁTICA", 
+            "tags":[
+                "INFORMÁTICA BÁSICA"                           
+            ]
+        },
+        {
+            "name":"INFORMÁTICA BÁSICA 2",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Finformatica%2FInform%C3%A1tica%20b%C3%A1sica%20para%20o%20estudo%20on-line%20(19-12-2020).pdf?alt=media&token=cfb8134e-af09-4180-8626-41f86754af73",
+            "img":"",
+            "type":"INFORMÁTICA", 
+            "tags":[
+                "INFORMÁTICA BÁSICA"                           
+            ]
+        },
+        {
+            "name":"INFORMÁTICA BÁSICA 3",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Finformatica%2Fapostila_infor_basic_16.pdf?alt=media&token=d70f7e1e-9f18-4d69-ad63-c8e99b914274",
+            "img":"",
+            "type":"INFORMÁTICA", 
+            "tags":[
+                "INFORMÁTICA BÁSICA"                           
+            ]
+        }                                                         
        
     ]
 }
