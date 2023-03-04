@@ -103,13 +103,14 @@
             ]
         },        
         {
-            "name":"Advérbio",
+            "name":"ADVERBIO",
             "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2FGram%C3%A1tica_%20Adv%C3%A9rbio.pdf?alt=media&token=aa4171db-37ab-468b-90e0-77a994e20bec",
             "img":"",
             "type":"PORTUGUES", 
             "tags":[
-                "Advérbio",
-                "Gramática_ Advérbio"                         
+                "ADVÉRBIO",
+                "Gramática Advérbio",
+                "GRAMATICA ADVERBIO"                         
             ]
         },
         {
