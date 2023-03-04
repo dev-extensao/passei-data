@@ -134,14 +134,24 @@
         },
         {
             "name":"A HISTÓRIA DO BRASIL PARA QUEM TEM PRESSA",
-            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fhistoria%2FA%20Hist%C3%B3ria%20do%20Brasil%20para%20quem%20tem%20Pressa.pdf?alt=media&token=f2f80f6a-ff2b-4c49-87c8-513f95bfd17f",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fhistoria%2FA%20Hist%C3%B3ria%20do%20Brasil%20para%20quem%20tem%20Pressa.pdf?alt=media&token=9de9c3ce-73c1-416a-a334-f48f70dee064",
             "img":"",
             "type":"HISTÓRIA", 
             "tags":[
                 "HISTÓRIA",
                 "HISTÓRIA DO BRASIL"                              
             ]
-        }                                                     
+        },
+        {
+            "name":"HISTÓRIA DA COLONIZAÇÃO PORTUGUESA DO BRASIL",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/imgs_apostilas%2Fhistoria%2FA%20Hist%C3%B3ria%20do%20Brasil%20para%20quem%20tem%20Pressa.pdf?alt=media&token=f2f80f6a-ff2b-4c49-87c8-513f95bfd17f",
+            "img":"",
+            "type":"HISTÓRIA", 
+            "tags":[
+                "HISTÓRIA",
+                "HISTÓRIA DA COLONIZAÇÃO"                              
+            ]
+        }                                                    
        
     ]
 }
