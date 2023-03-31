@@ -150,6 +150,7 @@
             "type":"HISTÓRIA", 
             "tags":[
                 "HISTÓRIA",
+                "HISTORIA",
                 "HISTÓRIA DO BRASIL"                              
             ]
         },
@@ -160,9 +161,20 @@
             "type":"HISTÓRIA", 
             "tags":[
                 "HISTÓRIA",
+                "HISTORIA",
                 "HISTÓRIA DA COLONIZAÇÃO"                              
             ]
-        }                                                    
+        },   
+        {
+            "name":"O BRASIL E O SISTEMA INTERNACIONAL DOS DIREITOS HUMANOS",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fhistoria%2FO_Brasil_e_o_Sistema_Internacional_dos_Direitos_Humanos.pdf?alt=media&token=0e88ca58-c4f5-4554-a706-c698481fe499",
+            "type":"HISTÓRIA", 
+            "tags":[
+                "HISTÓRIA",
+                "HISTORIA",
+                "HISTÓRIA DA COLONIZAÇÃO"                              
+            ]
+        }                                                 
        
     ]
 }
