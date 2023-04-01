@@ -183,7 +183,16 @@
                 "DOM CASMURRO",
                 "MACHADO DE ASSIS"                                          
             ]
-        }             
+        },
+        {
+            "name":"MEMÓRIAS PÓSTUMAS DE BRÁS CUBAS",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2FmemoriasBras.pdf?alt=media&token=45f0eccb-4488-4614-8adb-7381e156d7b4",
+            "type":"LITERATURA", 
+            "tags":[
+                "MEMORIAS POSTUMAS DE BRAS CUBAS",
+                "MACHADO DE ASSIS"                                          
+            ]
+        }               
         
         
        
