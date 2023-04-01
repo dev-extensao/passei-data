@@ -174,7 +174,18 @@
                 "HISTORIA",
                 "HISTÓRIA DA COLONIZAÇÃO"                              
             ]
-        }                                                 
+        },
+        {
+            "name":"DOM CASMURRO",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2FdomCasmurro.pdf?alt=media&token=879114e9-203d-4168-8241-a0fc4c834509",
+            "type":"LITERATURA", 
+            "tags":[
+                "DOM CASMURRO",
+                "MACHADO DE ASSIS"                                          
+            ]
+        }             
+        
+        
        
     ]
 }
