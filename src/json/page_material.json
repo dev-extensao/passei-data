@@ -201,7 +201,16 @@
                 "QUINCAS BORBA",
                 "MACHADO DE ASSIS"                                          
             ]
-        }       
-       
+        },
+        {
+            "name":"TRISTE FIM DE POLICARPO QUARESMA",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2FTRISTE%20FIM%20DE%20POLICARPO%20QUARESMA.pdf?alt=media&token=cf898ccd-c4c5-43b3-8174-e61f42b556dd",
+            "type":"LITERATURA", 
+            "tags":[
+                "TRISTE FIM DE POLICARPO QUARESMA",
+                "LIMA BARRETO"                                          
+            ]
+        }      
+               
     ]
 }
