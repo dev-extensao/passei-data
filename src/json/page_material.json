@@ -219,7 +219,16 @@
                 "RESSURREICAO",
                 "MACHADO DE ASSIS"                                          
             ]
-        }              
+        },
+        {
+            "name":"A MÃO E A LUVA",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2FmaoLuva.pdf?alt=media&token=0397bd98-698a-4b56-bbb1-d041c64e7fcb",
+            "type":"LITERATURA", 
+            "tags":[
+                "A MAO E A LUVA",
+                "MACHADO DE ASSIS"                                          
+            ]
+        }                  
                
     ]
 }
