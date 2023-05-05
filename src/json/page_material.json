@@ -236,6 +236,15 @@
             "tags":[                
                 "MACHADO DE ASSIS"                                         
             ]
+        },
+        {
+            "name":"IAIÁ GARCIA",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2Fiaia.pdf?alt=media&token=808b6ce9-f0de-4809-977d-b0acea46aa4a",
+            "type":"LITERATURA", 
+            "tags":[ 
+                "IAIA GARCIA",               
+                "MACHADO DE ASSIS"                                         
+            ]
         }                      
                
     ]
