@@ -254,7 +254,16 @@
                 "CASA VELHA",               
                 "MACHADO DE ASSIS"                                         
             ]
-        }                      
+        },
+        {
+            "name":"ESAÚ E JACÓ",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fliteratura%2Fesau.pdf?alt=media&token=845645c7-0001-4831-9e37-cd9a12f5187c",
+            "type":"LITERATURA", 
+            "tags":[ 
+                "ESAU E JACO",               
+                "MACHADO DE ASSIS"                                         
+            ]
+        }               
                
     ]
 }
