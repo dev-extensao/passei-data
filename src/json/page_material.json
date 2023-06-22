@@ -263,6 +263,17 @@
                 "ESAU E JACO",               
                 "MACHADO DE ASSIS"                                         
             ]
+        },
+        {
+            "name":"PROBABILIDADE E ESTATÍSTICA",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fmatematica%2FProb_Est_Livro_GR.pdf?alt=media&token=c63fb33e-31da-4992-9359-f48004086d17",
+            "type":"MATEMÁTICA", 
+            "tags":[ 
+                "PROBABILIDADE E ESTATÍSTICA",               
+                "PROBABILIDADE E ESTATISTICA",
+                "PROBABILIDADE",
+                "ESTATISTICA"                                        
+            ]
         }               
                
     ]
