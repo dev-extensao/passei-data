@@ -1,0 +1,15 @@
+{
+    "metada":{
+        "version":"v1"
+    },
+    "data":[
+        {
+            "title":"",
+            "url":"",
+            "type":"", 
+            "schoolSubject":"",
+            "tags":[                
+            ]
+        }
+    ]
+}
