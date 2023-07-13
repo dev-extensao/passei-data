@@ -283,6 +283,15 @@
                 "PROBABILIDADE",
                 "MATEMATICA"                     
             ]
+        },
+        {
+            "name":"REDAÇÃO",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fmatematica%2FProbabilidade_02.pdf?alt=media&token=250ab1a0-d220-44d5-97f9-52529981731d",
+            "type":"PORTUGUES", 
+            "tags":[ 
+                "REDACAO",
+                "PORTUGUES"                     
+            ]
         }                  
                
     ]
