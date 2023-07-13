@@ -292,6 +292,15 @@
                 "REDACAO",
                 "PORTUGUES"                     
             ]
+        },
+        {
+            "name":"REDAÇÃO 02",
+            "url":"https://firebasestorage.googleapis.com/v0/b/passei-storage.appspot.com/o/pdfs%2Fapostilas%2Fportugues%2Fredacao_02.pdf?alt=media&token=d36c8aad-9b86-47df-9b05-935bb2f1e47a",
+            "type":"PORTUGUES", 
+            "tags":[ 
+                "REDACAO",
+                "PORTUGUES"                     
+            ]
         }                  
                
     ]
